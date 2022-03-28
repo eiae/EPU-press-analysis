@@ -1,4 +1,4 @@
-This repository contains the `html` report () and () showing the baseline and robustness results from the empirical exercise in the paper **“Do local and foreign newspapers unveil the same economic policy uncertainty shocks?”** by *E. Andres-Escayola*, *C. Ghirelli*, *L. Molina*, *J.J. Perez*, and *E. Vidal*. Please refer to the paper for specific details.
+This repository contains the `html` reports showing the baseline and robustness results from the empirical exercise in the paper **“Do local and foreign newspapers unveil the same economic policy uncertainty shocks?”** by *E. Andres-Escayola*, *C. Ghirelli*, *L. Molina*, *J.J. Perez*, and *E. Vidal*. Please refer to the paper for specific details.
 
 Rendered versions:
 
