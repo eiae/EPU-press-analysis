@@ -3,7 +3,7 @@ This repository contains the `html` reports showing the baseline and robustness 
 Rendered versions:
 
 * [Baseline](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_baseline.html)
-* [Robustness](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_latam_BR_MX_CL.html)
+* [Robustness](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_robustness.html)
 
 ---
 If you have any questions you can contact me at [erikignasi@gmail.com](mailto:erikignasi@gmail.com).
