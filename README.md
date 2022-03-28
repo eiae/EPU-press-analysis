@@ -4,6 +4,8 @@ Rendered versions:
 
 * [Baseline](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_baseline.html)
 * [Robustness](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_robustness.html)
+* [Country-specific BR-MX-CL](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_latam_countries_BR_MX_CL.html)
+* [Country-specific CO-AR-PE](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_latam_countries_CO_AR_PE.html)
 
 ---
 If you have any questions you can contact me at [erikignasi@gmail.com](mailto:erikignasi@gmail.com).
