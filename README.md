@@ -3,6 +3,7 @@ This repository contains the `html` reports showing the baseline and robustness 
 Rendered versions:
 
 * [Baseline](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_baseline.html)
+* [Baseline ESP](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_baseline_ESP.html)
 * [Robustness](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_robustness.html)
 * [Country-specific BR-MX-CL](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_latam_countries_BR_MX_CL.html)
 * [Country-specific CO-AR-PE](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_latam_countries_CO_AR_PE.html)
