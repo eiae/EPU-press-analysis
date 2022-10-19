@@ -3,7 +3,7 @@ how many?"](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/Publicacione
 
 Rendered versions:
 
-* [Empirical results report](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_prox_baseline.html)
+* [Empirical results report](https://htmlpreview.github.io/?https://github.com/eiae/EPU_prox/blob/main/EPU_press_analysis.html)
 
 ---
 If you have any questions you can contact me at [erikignasi@gmail.com](mailto:erikignasi@gmail.com).
