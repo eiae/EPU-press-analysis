@@ -126,7 +126,7 @@ mod_set.HDband=0.84;   % confidence/credibility level for historical decompositi
 % save in different files and run BEAR for each combi
 for comb = 1:size(EPU,2)
     
-    mod_set.results_sub=strcat('results_BVAR_' , cc, '_EPUcomb_', comb);
+    mod_set.results_sub=strcat('results_BVAR_' , cc, '_EPUcomb_', int2str(comb));
     BEARmain(mod_set, EPU, comb);  
     
 end
